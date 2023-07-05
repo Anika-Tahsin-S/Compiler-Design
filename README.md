@@ -3,7 +3,7 @@
 Run Framework:
 - MinGW
 - Flex
-- Gitbash
+- Gitbash <br>
 ** Follow the Software Installation for the framework to work.
   
 Commands on GitBash:
