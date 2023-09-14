@@ -503,7 +503,7 @@ int main(int argc, char* argv[]) {
 		return 0;
 	}
 	yyin = fopen(argv[1], "r");
-	outlog.open("23141058_log.txt", std::ios::trunc);
+	outlog.open("Syntax_Analyzer_log.txt", std::ios::trunc);
 	
 	if(yyin == NULL)
 	{
